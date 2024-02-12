@@ -1,0 +1,3 @@
+".\Objects\alternetled.obj" 
+TO ".\Objects\ALTENATEBLINK" 
+PRINT(".\Listings\ALTENATEBLINK.m51")
